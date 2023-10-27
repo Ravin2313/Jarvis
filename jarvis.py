@@ -83,10 +83,7 @@ if __name__ == "__main__":
         elif 'jarvis are you here' in query:
             speak('Yes sir i am always here for you')
 
-        elif 'tell me about my brother' in query:
-            speak(
-                'aapka bhai ek number ka kukur aur padra hai')
-
+        
         elif 'open youtube' in query:
             webbrowser.open("youtube.com")
 
