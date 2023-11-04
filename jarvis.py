@@ -83,7 +83,6 @@ if __name__ == "__main__":
         elif 'jarvis are you here' in query:
             speak('Yes sir i am always here for you')
 
-        
         elif 'open youtube' in query:
             webbrowser.open("youtube.com")
 
