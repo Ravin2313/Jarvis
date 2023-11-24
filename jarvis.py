@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
         elif 'bye jarvis' in query:
             speak(
-                'Okk sir , I will be here')
+                'Okk sir , Nice to talk')
 
         elif 'play music' in query:
             music_dir = 'D:\music'
